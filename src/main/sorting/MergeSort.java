@@ -1,4 +1,4 @@
-package com.company.sorting;
+package main.sorting;
 
 import java.util.Random;
 
